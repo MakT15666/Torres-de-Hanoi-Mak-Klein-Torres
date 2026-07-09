@@ -26,5 +26,4 @@ La aplicación incluye un **Simulador de Complejidad** interactivo que permite a
 * **Rol:** Estudiante de Análisis y Desarrollo de Software (SENA) / Consultor Tecnológico
 
 ## 🚀 Enlace del Proyecto Publicado
-La aplicación se encuentra desplegada y disponible para su uso en producción a través del siguiente enlace:
-🔗 **[Ver Proyecto en Render](https://torres-de-hanoi-sena.onrender.com)**
+https://torres-de-hanoi-mak-klein-torres.onrender.com
